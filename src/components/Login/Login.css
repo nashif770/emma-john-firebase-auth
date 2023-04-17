@@ -1,0 +1,23 @@
+.form-container{
+    width: 500px;
+    height: 600px;
+    border: 1px solid red;
+    border-radius: 8px;
+    margin: 20px auto;
+    padding-left: 40px; 
+}
+
+.form-title{
+    text-align: center;
+}
+
+.form-control label{
+    display: block;
+}
+
+.form-control input{
+    width: 415px;
+    height: 55px;
+    border: 1px solid green;
+    border-radius: 5px;
+}
