@@ -7,6 +7,10 @@
     padding-left: 40px; 
 }
 
+.form-control{
+    margin-bottom: 20px;
+}
+
 .form-title{
     text-align: center;
 }
@@ -20,4 +24,24 @@
     height: 55px;
     border: 1px solid green;
     border-radius: 5px;
+    font-size: 1.5em;
+    padding-left: 10px;
+}
+
+.btn-submit{
+    margin: 20px auto;
+    width: 415px;
+    height: 55px;
+    background-color: bisque;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.btn-submit:hover{
+    background-color: green;
+    font-size: 30px;
+}
+
+.text-error{
+    color: red;
 }
